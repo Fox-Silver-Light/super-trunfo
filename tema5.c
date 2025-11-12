@@ -117,7 +117,7 @@ int main(){
       
 
       case 2:
-        printf("\n-- Regras do jogo --\n");
+        printf("\-- Regras do jogo --\n");
         printf("1. Escolha um atributo para comparar entre duas cartas.\n");
         printf("2. O maior valor vence (exceto densidade demográfica, onde o menor vence).\n");
         printf("3. Atributos disponíveis: População, Área, PIB, Pontos turísticos e Densidade.\n");
